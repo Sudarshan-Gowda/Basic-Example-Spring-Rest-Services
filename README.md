@@ -43,9 +43,9 @@ File -> Import -> Maven -> Existing Maven project
 ## Steps to test the application:
 
 1) Once the application is installed properly, Run the application
-2) Hit the request from postman. In this project mainly two methods where covered (GET/POST).
+2) Hit the request from postman. In this project mainly two methods were covered (GET/POST).
 a) For GET method no need to send any data(Json) as a postman request
-b) For POST method need to send the data in Json format. The sample json data is mentioned in the below file.|Sample JSON format data |sample-json| (https://github.com/Sudarshan-Gowda/Basic-Example-Spring-Rest-Services/tree/master/sample-json.txt)
+b) For POST method need to send the data in Json format. The sample json data is mentioned in the below file.|Sample JSON format data |sample-json(https://github.com/Sudarshan-Gowda/Basic-Example-Spring-Rest-Services/tree/master/sample-json.txt)
    
    
 ## User reference or guide.
